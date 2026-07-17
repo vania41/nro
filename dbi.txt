@@ -1,3 +1,1 @@
-# Placeholder — URL will be filled after first GitHub Release upload.
-# Format for DBI URLList: filename|https://...
 marmelad.nro|https://github.com/vania41/nro/releases/latest/download/marmelad.nro
